@@ -1,0 +1,3 @@
+/Users/flam1ngo/Desktop/myfirst_cmake_project/first_project/CMakeFiles/Test.dir
+/Users/flam1ngo/Desktop/myfirst_cmake_project/first_project/CMakeFiles/ALL_BUILD.dir
+/Users/flam1ngo/Desktop/myfirst_cmake_project/first_project/CMakeFiles/ZERO_CHECK.dir
